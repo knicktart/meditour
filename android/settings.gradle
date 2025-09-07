@@ -19,14 +19,13 @@ pluginManagement {
 }
 
 plugins {
-    // Explicit versions for CI
-    id "com.android.application" version "8.1.0" apply false
+    // ⬅ bump AGP to 8.1.1 (Flutter requires ≥ 8.1.1)
+    id "com.android.application" version "8.1.1" apply false
     id "org.jetbrains.kotlin.android" version "1.9.22" apply false
     id "dev.flutter.flutter-plugin-loader" version "1.0.0"
 }
 
 dependencyResolutionManagement {
-    // NOTE: No repositoriesMode line here — allow project repositories if present.
     repositories {
         google()
         mavenCentral()
