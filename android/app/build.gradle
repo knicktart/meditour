@@ -1,19 +1,22 @@
 plugins {
     id "com.android.application"
-    id "org.jetbrains.kotlin.android"    // ⬅ switched from "kotlin-android"
+    id "org.jetbrains.kotlin.android"
     id "dev.flutter.flutter-gradle-plugin"
 }
 
 android {
-    // Keep this in sync with your package in AndroidManifest.xml
+    // Must match AndroidManifest.xml package
     namespace "com.example.meditour"
+
+    // Explicit SDKs (no Flutter variables)
+    compileSdk 35
 
     defaultConfig {
         applicationId "com.example.meditour"
-        // Jitsi requires 26+
-        minSdkVersion 26
-        versionCode flutterVersionCode.toInteger()
-        versionName flutterVersionName
+        minSdk 26              // Jitsi requires 26+
+        targetSdk 35
+        versionCode 1          // adjust later as needed
+        versionName "1.0.0"
     }
 
     // Make profile resolve RELEASE deps (avoids react-android *-debug.aar)
