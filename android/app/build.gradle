@@ -1,0 +1,41 @@
+plugins {
+    id "com.android.application"
+    id "kotlin-android"
+    id "dev.flutter.flutter-gradle-plugin"
+}
+
+android {
+    namespace "com.example.meditour"
+
+    defaultConfig {
+        applicationId "com.example.meditour"
+        // Jitsi requires minSdk 26+
+        minSdkVersion 26
+        versionCode flutterVersionCode.toInteger()
+        versionName flutterVersionName
+    }
+
+    // Make "profile" resolve RELEASE dependencies (avoids react-android *-debug.aar)
+    buildTypes {
+        profile {
+            matchingFallbacks = ['release']
+        }
+    }
+
+    // Java/Kotlin 17
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+    kotlinOptions {
+        jvmTarget = '17'
+    }
+}
+
+flutter {
+    source '../..'
+}
+
+dependencies {
+    implementation "org.jetbrains.kotlin:kotlin-stdlib"
+}
