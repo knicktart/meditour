@@ -26,3 +26,1405 @@
     "hotel"
   ]
 }
+[
+  {
+    "id": 1,
+    "question": "Why is Turkey a leading destination for medical tourism?",
+    "answer": "Turkey combines world-class medical care, highly trained specialists, cutting-edge technology, JCI-accredited hospitals, and treatment costs 50 to 80 percent lower than in the US, UK, or Western Europe—making it one of the most trusted and affordable destinations for international patients.",
+    "category": "General Overview",
+    "tags": ["turkey", "medical tourism", "why turkey", "affordable care", "international patients"]
+  },
+  {
+    "id": 2,
+    "question": "What makes Aregon Group different from other agencies?",
+    "answer": "We are not a middleman—we are a dedicated medical concierge. We offer end-to-end coordination, direct partnerships with top-tier clinics, transparent all-inclusive pricing, multilingual case managers, and post-treatment follow-up, ensuring a seamless, safe, and premium experience.",
+    "category": "Company Info",
+    "tags": ["aregon group", "about us", "medical concierge", "patient support", "premium service"]
+  },
+  {
+    "id": 3,
+    "question": "Is healthcare in Turkey safe for international patients?",
+    "answer": "Yes. Turkey’s private healthcare sector adheres to international standards. Our partner hospitals follow strict protocols in hygiene, diagnostics, surgery, and patient safety, with many staff trained in Europe and North America.",
+    "category": "General Overview",
+    "tags": ["safety", "turkey healthcare", "patient safety", "medical standards", "international care"]
+  },
+  {
+    "id": 4,
+    "question": "Are the doctors in Turkey qualified and experienced?",
+    "answer": "Absolutely. Our specialists are board-certified, many trained in the US, Germany, the UK, or Switzerland. They have extensive experience treating international patients and stay updated with global medical advancements.",
+    "category": "Doctors & Staff",
+    "tags": ["doctors", "qualifications", "board certified", "experienced surgeons", "medical team"]
+  },
+  {
+    "id": 5,
+    "question": "Do the hospitals use modern technology?",
+    "answer": "Yes. Our hospitals are equipped with robotic surgery systems, 3D imaging, digital diagnostics, laser treatments, and advanced ICU monitoring—comparable to leading hospitals in Europe and North America.",
+    "category": "Hospitals & Facilities",
+    "tags": ["technology", "modern hospitals", "robotic surgery", "3D imaging", "ICU", "diagnostics"]
+  },
+  {
+    "id": 6,
+    "question": "Are the medical staff fluent in English and other languages?",
+    "answer": "Yes. Our teams include doctors, nurses, and coordinators fluent in English, Arabic, Russian, German, French, Persian, and Urdu. You will never face a language barrier.",
+    "category": "Doctors & Staff",
+    "tags": ["language", "english", "multilingual", "translator", "communication"]
+  },
+  {
+    "id": 7,
+    "question": "What is JCI accreditation?",
+    "answer": "JCI (Joint Commission International) is the global gold standard for healthcare quality and patient safety. All our partner hospitals are JCI-accredited, meaning they meet rigorous benchmarks in infection control, emergency preparedness, and clinical outcomes.",
+    "category": "Hospitals & Facilities",
+    "tags": ["JCI", "accreditation", "hospital standards", "patient safety", "international care"]
+  },
+  {
+    "id": 8,
+    "question": "How do you ensure patient safety and hygiene?",
+    "answer": "Our clinics follow WHO and JCI infection control protocols, including HEPA-filtered operating rooms, single-use instruments, sterilization procedures, and continuous staff training. Hospital-acquired infection rates are among the lowest in the region.",
+    "category": "Hospitals & Facilities",
+    "tags": ["hygiene", "infection control", "WHO", "JCI", "sterilization", "safety"]
+  },
+  {
+    "id": 9,
+    "question": "Are patient records kept confidential?",
+    "answer": "Yes. We strictly comply with data privacy laws and use encrypted electronic medical records. Your information is shared only with authorized medical personnel.",
+    "category": "Company Info",
+    "tags": ["privacy", "data protection", "confidentiality", "medical records", "GDPR"]
+  },
+  {
+    "id": 10,
+    "question": "Can I get a second opinion before treatment?",
+    "answer": "Yes. We offer free second medical opinions from senior specialists in your field. Send your reports, scans, and history for evaluation.",
+    "category": "Company Info",
+    "tags": ["second opinion", "consultation", "medical review", "expert opinion"]
+  },
+  {
+    "id": 11,
+    "question": "How long has Aregon Group been operating?",
+    "answer": "Aregon Group has been facilitating medical travel for over a decade, serving thousands of patients from the US, UK, Europe, the Middle East, and beyond.",
+    "category": "Company Info",
+    "tags": ["experience", "about us", "decade", "medical tourism agency"]
+  },
+  {
+    "id": 12,
+    "question": "Do you work with public or private hospitals?",
+    "answer": "Only with private, JCI-accredited hospitals and clinics that meet our strict quality, safety, and service standards.",
+    "category": "Hospitals & Facilities",
+    "tags": ["private hospitals", "public vs private", "clinic selection"]
+  },
+  {
+    "id": 13,
+    "question": "Are your services only for surgical procedures?",
+    "answer": "No. We support diagnostic packages, chronic disease management, fertility, oncology, dental care, and wellness programs—not just surgery.",
+    "category": "General Overview",
+    "tags": ["non-surgical", "diagnostics", "wellness", "chronic care"]
+  },
+  {
+    "id": 14,
+    "question": "Can patients with complex medical histories be treated?",
+    "answer": "Yes. Our multidisciplinary teams evaluate each case thoroughly and design safe, personalized treatment plans.",
+    "category": "Doctors & Staff",
+    "tags": ["complex cases", "comorbidities", "medical history", "risk assessment"]
+  },
+  {
+    "id": 15,
+    "question": "Do you assist patients with disabilities or mobility issues?",
+    "answer": "Yes. We provide wheelchair access, private transfers, adapted rooms, and nursing support upon request.",
+    "category": "Travel & Support",
+    "tags": ["disability", "mobility", "wheelchair", "accessibility", "nursing"]
+  },
+  {
+    "id": 16,
+    "question": "Are children treated at your clinics?",
+    "answer": "Yes. Pediatric specialists are available for dentistry, dermatology, orthopedics, and other procedures.",
+    "category": "Doctors & Staff",
+    "tags": ["pediatric", "children", "kids", "family care"]
+  },
+  {
+    "id": 17,
+    "question": "Is there a central coordination office?",
+    "answer": "Yes. Aregon Group has a 24/7 international patient center that manages all bookings, transfers, appointments, and emergencies.",
+    "category": "Company Info",
+    "tags": ["coordination", "24/7", "patient center", "emergency", "support"]
+  },
+  {
+    "id": 18,
+    "question": "How do you select your partner hospitals?",
+    "answer": "Based on accreditation, technology, doctor qualifications, patient reviews, safety records, and ethical practices—never on commissions.",
+    "category": "Hospitals & Facilities",
+    "tags": ["hospital selection", "quality control", "ethics", "JCI", "technology"]
+  },
+  {
+    "id": 19,
+    "question": "Can I visit the hospital before booking?",
+    "answer": "Yes. Virtual hospital tours and video consultations with doctors are available upon request.",
+    "category": "Hospitals & Facilities",
+    "tags": ["virtual tour", "hospital visit", "video call", "pre-booking"]
+  },
+  {
+    "id": 20,
+    "question": "Do you offer emergency medical evacuation?",
+    "answer": "Yes. In rare cases, we coordinate with international air ambulance services for repatriation if medically necessary.",
+    "category": "Travel & Support",
+    "tags": ["evacuation", "air ambulance", "emergency", "repatriation"]
+  },
+  {
+    "id": 21,
+    "question": "How much can I save compared to my home country?",
+    "answer": "Patients typically save 50 to 80 percent on medical procedures compared to prices in the US, UK, Germany, Canada, or Australia.",
+    "category": "Cost & Value",
+    "tags": ["cost savings", "affordable", "cheaper", "value", "pricing"]
+  },
+  {
+    "id": 22,
+    "question": "Why are treatments cheaper in Turkey?",
+    "answer": "Lower operational costs, government support for medical tourism, and efficient healthcare delivery—not lower quality. You receive the same standard of care at a fraction of the cost.",
+    "category": "Cost & Value",
+    "tags": ["why cheaper", "cost advantage", "pricing", "value"]
+  },
+  {
+    "id": 23,
+    "question": "Are there any hidden fees?",
+    "answer": "No. Aregon Group provides transparent, all-inclusive pricing covering consultations, surgery, anesthesia, hospitalization, medications, transfers, and aftercare.",
+    "category": "Cost & Value",
+    "tags": ["hidden fees", "transparent pricing", "all-inclusive", "no surprises"]
+  },
+  {
+    "id": 24,
+    "question": "Do you offer payment plans?",
+    "answer": "Yes. We offer flexible installment options through partner financial institutions. Some clinics accept credit cards and wire transfers.",
+    "category": "Cost & Value",
+    "tags": ["payment plan", "financing", "installments", "credit card"]
+  },
+  {
+    "id": 25,
+    "question": "Is treatment covered by international insurance?",
+    "answer": "Some global insurers cover treatments in Turkey. We provide detailed invoices and medical reports for reimbursement claims.",
+    "category": "Cost & Value",
+    "tags": ["insurance", "reimbursement", "global insurance", "claim"]
+  },
+  {
+    "id": 26,
+    "question": "Can I pay in my local currency?",
+    "answer": "Yes. Payments can be made in EUR, USD, GBP, or TRY via secure international transfer.",
+    "category": "Cost & Value",
+    "tags": ["currency", "EUR", "USD", "GBP", "TRY", "payment"]
+  },
+  {
+    "id": 27,
+    "question": "Is there a cancellation or rescheduling policy?",
+    "answer": "Yes. We offer flexible rescheduling with minimal penalties if canceled with advance notice. Full terms are provided in your contract.",
+    "category": "Company Info",
+    "tags": ["cancellation", "reschedule", "policy", "refund"]
+  },
+  {
+    "id": 28,
+    "question": "Do you offer group or family discounts?",
+    "answer": "Yes. Families or groups traveling together may receive special rates on accommodation and transfers.",
+    "category": "Cost & Value",
+    "tags": ["group discount", "family", "multiple patients"]
+  },
+  {
+    "id": 29,
+    "question": "Are follow-up visits included in the price?",
+    "answer": "Yes. Post-op check-ups, telehealth consultations, and aftercare support are included for 3 to 12 months.",
+    "category": "Cost & Value",
+    "tags": ["follow-up", "aftercare", "included", "remote check-up"]
+  },
+  {
+    "id": 30,
+    "question": "Can I get a price match guarantee?",
+    "answer": "While we don’t offer price matching, our rates are already 50–80 percent lower than Western countries, with superior service and facilities.",
+    "category": "Cost & Value",
+    "tags": ["price match", "competitive pricing", "value"]
+  },
+  {
+    "id": 31,
+    "question": "Why is Turkey the top destination for hair transplants?",
+    "answer": "Turkey performs over a million hair transplants annually due to high success rates, experienced surgeons, advanced techniques, and savings of up to 80 percent.",
+    "category": "Hair Transplant",
+    "tags": ["hair transplant", "turkey", "why turkey", "best country"]
+  },
+  {
+    "id": 32,
+    "question": "What techniques are used?",
+    "answer": "FUE (Follicular Unit Extraction) and DHI (Direct Hair Implantation)—both minimally invasive with natural, permanent results.",
+    "category": "Hair Transplant",
+    "tags": ["FUE", "DHI", "technique", "hair restoration"]
+  },
+  {
+    "id": 33,
+    "question": "How many grafts can be transplanted?",
+    "answer": "2,000 to 5,000+ grafts in one session, depending on donor density and medical evaluation.",
+    "category": "Hair Transplant",
+    "tags": ["grafts", "number of grafts", "transplant size"]
+  },
+  {
+    "id": 34,
+    "question": "Is the procedure painful?",
+    "answer": "No. Local anesthesia is used. Most patients feel only slight pressure and can watch movies during the 6–8 hour session.",
+    "category": "Hair Transplant",
+    "tags": ["pain", "anesthesia", "discomfort"]
+  },
+  {
+    "id": 35,
+    "question": "How long is recovery?",
+    "answer": "Light activity resumes in 2–3 days. Scabs fall off in 7–10 days. New growth begins at 3–4 months, full results at 9–12 months.",
+    "category": "Hair Transplant",
+    "tags": ["recovery", "healing", "timeline"]
+  },
+  {
+    "id": 36,
+    "question": "Do you offer a guarantee?",
+    "answer": "Yes. Many clinics offer growth guarantees or free touch-ups if needed, subject to medical review.",
+    "category": "Hair Transplant",
+    "tags": ["guarantee", "warranty", "touch-up", "free revision"]
+  },
+  {
+    "id": 37,
+    "question": "Can women undergo hair transplants?",
+    "answer": "Yes. Female pattern hair loss is treated with FUE or DHI, tailored to diffuse thinning and frontal restoration.",
+    "category": "Hair Transplant",
+    "tags": ["women", "female hair loss", "FUE for women"]
+  },
+  {
+    "id": 38,
+    "question": "Can I combine PRP with my transplant?",
+    "answer": "Yes. PRP (Platelet-Rich Plasma) therapy is available to boost healing and hair growth.",
+    "category": "Hair Transplant",
+    "tags": ["PRP", "platelet-rich plasma", "therapy", "healing"]
+  },
+  {
+    "id": 39,
+    "question": "Is shock loss common?",
+    "answer": "Temporary shedding (shock loss) occurs in 2–6 weeks but resolves as new hair grows.",
+    "category": "Hair Transplant",
+    "tags": ["shock loss", "shedding", "temporary"]
+  },
+  {
+    "id": 40,
+    "question": "How long should I stay in Turkey?",
+    "answer": "5 to 7 days, including consultation, surgery, and post-op check-up.",
+    "category": "Hair Transplant",
+    "tags": ["stay duration", "travel time", "days in turkey"]
+  },
+  {
+    "id": 41,
+    "question": "Can I wash my hair after surgery?",
+    "answer": "Yes. Nurses provide instructions. Gentle washing begins on day 3.",
+    "category": "Hair Transplant",
+    "tags": ["hair wash", "aftercare", "hygiene"]
+  },
+  {
+    "id": 42,
+    "question": "Are there risks?",
+    "answer": "Minimal. Risks include swelling, infection (rare), or scarring—prevented with proper aftercare.",
+    "category": "Hair Transplant",
+    "tags": ["risks", "complications", "side effects"]
+  },
+  {
+    "id": 43,
+    "question": "Can I wear a hat after surgery?",
+    "answer": "Not for the first 10 days. After that, loose hats are allowed.",
+    "category": "Hair Transplant",
+    "tags": ["hat", "clothing", "post-op care"]
+  },
+  {
+    "id": 44,
+    "question": "Do you use robotic hair transplant systems?",
+    "answer": "Some clinics offer robotic-assisted FUE for precision, though manual FUE remains the gold standard.",
+    "category": "Hair Transplant",
+    "tags": ["robotic", "ARTAS", "automated"]
+  },
+  {
+    "id": 45,
+    "question": "Can I get a beard or eyebrow transplant?",
+    "answer": "Yes. Facial hair transplants are performed using the same FUE technique.",
+    "category": "Hair Transplant",
+    "tags": ["beard", "eyebrow", "facial hair", "transplant"]
+  },
+  {
+    "id": 46,
+    "question": "What dental services are offered?",
+    "answer": "Implants, All-on-4, crowns, veneers, smile makeovers, orthodontics, and whitening.",
+    "category": "Dentistry",
+    "tags": ["dental", "implants", "crowns", "veneers", "orthodontics"]
+  },
+  {
+    "id": 47,
+    "question": "Are implants high quality?",
+    "answer": "Yes. We use Straumann, Nobel Biocare, Medentika—same as in top US/EU clinics.",
+    "category": "Dentistry",
+    "tags": ["implants", "quality", "brands", "Straumann", "Nobel"]
+  },
+  {
+    "id": 48,
+    "question": "Can I get same-day teeth?",
+    "answer": "Yes. All-on-4/6 allows fixed temporary teeth on the same day.",
+    "category": "Dentistry",
+    "tags": ["same-day teeth", "immediate load", "All-on-4", "All-on-6"]
+  },
+  {
+    "id": 49,
+    "question": "How long does treatment take?",
+    "answer": "7 to 14 days, depending on complexity.",
+    "category": "Dentistry",
+    "tags": ["treatment time", "duration", "days in turkey"]
+  },
+  {
+    "id": 50,
+    "question": "Is sedation available?",
+    "answer": "Yes. Local, conscious sedation, or general anesthesia.",
+    "category": "Dentistry",
+    "tags": ["sedation", "anesthesia", "pain-free", "anxiety"]
+  },
+  {
+    "id": 51,
+    "question": "What are zirconia crowns?",
+    "answer": "Premium metal-free crowns known for strength and natural appearance.",
+    "category": "Dentistry",
+    "tags": ["zirconia", "crowns", "ceramic", "aesthetic"]
+  },
+  {
+    "id": 52,
+    "question": "Do you offer bone grafting?",
+    "answer": "Yes. Performed when jawbone density is insufficient for implants.",
+    "category": "Dentistry",
+    "tags": ["bone graft", "augmentation", "sinus lift"]
+  },
+  {
+    "id": 53,
+    "question": "Is digital smile design used?",
+    "answer": "Yes. 3D planning ensures precise, aesthetic results.",
+    "category": "Dentistry",
+    "tags": ["digital smile design", "3D", "planning", "aesthetics"]
+  },
+  {
+    "id": 54,
+    "question": "Are pediatric dentistry services available?",
+    "answer": "Yes. For children and teens.",
+    "category": "Dentistry",
+    "tags": ["pediatric", "kids", "children", "family"]
+  },
+  {
+    "id": 55,
+    "question": "Is gum treatment offered?",
+    "answer": "Yes. Periodontal therapy for gum disease.",
+    "category": "Dentistry",
+    "tags": ["gum", "periodontal", "cleaning", "scaling"]
+  },
+  {
+    "id": 56,
+    "question": "What cosmetic surgery procedures are popular?",
+    "answer": "Rhinoplasty, breast augmentation, liposuction, tummy tuck, facelift, eyelid surgery.",
+    "category": "Cosmetic Surgery",
+    "tags": ["cosmetic", "plastic surgery", "popular procedures"]
+  },
+  {
+    "id": 57,
+    "question": "Are results natural-looking?",
+    "answer": "Yes. 3D simulation ensures harmony and proportion.",
+    "category": "Cosmetic Surgery",
+    "tags": ["natural results", "3D simulation", "before after"]
+  },
+  {
+    "id": 58,
+    "question": "Where are surgeries performed?",
+    "answer": "In accredited surgical centers with ICU backup.",
+    "category": "Cosmetic Surgery",
+    "tags": ["surgery location", "operating room", "facility"]
+  },
+  {
+    "id": 59,
+    "question": "How long is the hospital stay?",
+    "answer": "1 to 3 nights, with 24/7 nursing.",
+    "category": "Cosmetic Surgery",
+    "tags": ["hospital stay", "recovery room", "overnight"]
+  },
+  {
+    "id": 60,
+    "question": "Is anesthesia safe?",
+    "answer": "Yes. Administered by board-certified anesthesiologists using international protocols.",
+    "category": "Cosmetic Surgery",
+    "tags": ["anesthesia", "safety", "certified", "risk"]
+  },
+  {
+    "id": 61,
+    "question": "Can I combine multiple surgeries?",
+    "answer": "Yes. Many patients opt for mommy makeovers or body contouring combinations.",
+    "category": "Cosmetic Surgery",
+    "tags": ["combination surgery", "multiple procedures", "package"]
+  },
+  {
+    "id": 62,
+    "question": "What types of breast implants are used?",
+    "answer": "Silicone and saline implants from top global brands.",
+    "category": "Cosmetic Surgery",
+    "tags": ["breast implants", "silicone", "saline", "brands"]
+  },
+  {
+    "id": 63,
+    "question": "Is scarring minimized?",
+    "answer": "Yes. Surgeons use advanced techniques to place incisions in natural folds.",
+    "category": "Cosmetic Surgery",
+    "tags": ["scarring", "incisions", "minimal scar"]
+  },
+  {
+    "id": 64,
+    "question": "Do you offer revision surgery?",
+    "answer": "Yes. For corrections or enhancements, subject to evaluation.",
+    "category": "Cosmetic Surgery",
+    "tags": ["revision", "redo", "touch-up"]
+  },
+  {
+    "id": 65,
+    "question": "What is the recovery timeline?",
+    "answer": "1–2 weeks for light activity, 6–8 weeks for full recovery.",
+    "category": "Cosmetic Surgery",
+    "tags": ["recovery", "healing", "timeline"]
+  },
+  {
+    "id": 66,
+    "question": "What joint replacements are offered?",
+    "answer": "Hip, knee, shoulder, with robotic-assisted options.",
+    "category": "Orthopedics",
+    "tags": ["joint replacement", "hip", "knee", "shoulder", "robotic"]
+  },
+  {
+    "id": 67,
+    "question": "What implant brands are used?",
+    "answer": "Zimmer, DePuy, Stryker, Smith & Nephew—FDA/CE approved.",
+    "category": "Orthopedics",
+    "tags": ["implants", "brands", "quality", "FDA", "CE"]
+  },
+  {
+    "id": 68,
+    "question": "How long is recovery after joint replacement?",
+    "answer": "Walk within 24 hours. Full recovery in 3–6 months.",
+    "category": "Orthopedics",
+    "tags": ["recovery", "walking", "physiotherapy", "timeline"]
+  },
+  {
+    "id": 69,
+    "question": "Is physiotherapy included?",
+    "answer": "Yes. Post-op sessions are included. Extended rehab available.",
+    "category": "Orthopedics",
+    "tags": ["physiotherapy", "rehab", "physical therapy", "recovery"]
+  },
+  {
+    "id": 70,
+    "question": "Do you offer spinal surgery?",
+    "answer": "Yes. For herniated discs, stenosis, and deformities.",
+    "category": "Orthopedics",
+    "tags": ["spine", "back surgery", "disc", "scoliosis"]
+  },
+  {
+    "id": 71,
+    "question": "Is prehab offered?",
+    "answer": "Yes. Pre-surgery exercises to improve outcomes.",
+    "category": "Orthopedics",
+    "tags": ["prehab", "preparation", "exercise"]
+  },
+  {
+    "id": 72,
+    "question": "Are non-surgical options available?",
+    "answer": "Yes. PRP, stem cell therapy, and injections.",
+    "category": "Orthopedics",
+    "tags": ["non-surgical", "PRP", "injections", "conservative"]
+  },
+  {
+    "id": 73,
+    "question": "What cardiac procedures are performed?",
+    "answer": "CABG, angioplasty, valve repair, ablation, diagnostics.",
+    "category": "Cardiac Surgery",
+    "tags": ["heart surgery", "bypass", "stent", "valve"]
+  },
+  {
+    "id": 74,
+    "question": "Are cardiac ICUs available?",
+    "answer": "Yes. 24/7 monitoring and emergency response.",
+    "category": "Cardiac Surgery",
+    "tags": ["ICU", "cardiac care", "monitoring"]
+  },
+  {
+    "id": 75,
+    "question": "Are surgeons internationally trained?",
+    "answer": "Yes. Many trained in Europe or the US.",
+    "category": "Cardiac Surgery",
+    "tags": ["surgeon", "qualifications", "training"]
+  },
+  {
+    "id": 76,
+    "question": "Can I get a full cardiac check-up?",
+    "answer": "Yes. Includes ECG, echo, stress test, CT angiography.",
+    "category": "Cardiac Surgery",
+    "tags": ["check-up", "screening", "diagnostics"]
+  },
+  {
+    "id": 77,
+    "question": "Is minimally invasive surgery offered?",
+    "answer": "Yes. For bypass and valve procedures.",
+    "category": "Cardiac Surgery",
+    "tags": ["minimally invasive", "keyhole", "laparoscopic"]
+  },
+  {
+    "id": 78,
+    "question": "What cancer treatments are available?",
+    "answer": "Chemo, radiation (IMRT, CyberKnife), surgery, immunotherapy.",
+    "category": "Oncology",
+    "tags": ["cancer", "chemotherapy", "radiation", "surgery"]
+  },
+  {
+    "id": 79,
+    "question": "Are treatments personalized?",
+    "answer": "Yes. Multidisciplinary tumor boards create custom plans.",
+    "category": "Oncology",
+    "tags": ["personalized", "tumor board", "treatment plan"]
+  },
+  {
+    "id": 80,
+    "question": "Are the drugs the same as in the West?",
+    "answer": "Yes. Follow NCCN/ESMO guidelines with international drugs.",
+    "category": "Oncology",
+    "tags": ["drugs", "medication", "chemotherapy", "immunotherapy"]
+  },
+  {
+    "id": 81,
+    "question": "Can I continue treatment at home?",
+    "answer": "Yes. We provide records and coordinate with your local oncologist.",
+    "category": "Oncology",
+    "tags": ["continuity", "home country", "records"]
+  },
+  {
+    "id": 82,
+    "question": "Is genetic testing available?",
+    "answer": "Yes. PGT and tumor profiling for targeted therapy.",
+    "category": "Oncology",
+    "tags": ["genetic", "testing", "PGT", "profiling"]
+  },
+  {
+    "id": 83,
+    "question": "Who can access IVF?",
+    "answer": "Single women, couples, LGBTQ+ individuals, with donor and surrogacy options.",
+    "category": "Fertility",
+    "tags": ["IVF", "fertility", "single", "LGBTQ", "donor"]
+  },
+  {
+    "id": 84,
+    "question": "What is the success rate?",
+    "answer": "Comparable to top European clinics, based on age and condition.",
+    "category": "Fertility",
+    "tags": ["success rate", "IVF rate", "pregnancy"]
+  },
+  {
+    "id": 85,
+    "question": "How long is an IVF cycle?",
+    "answer": "Approximately 10 to 14 days.",
+    "category": "Fertility",
+    "tags": ["IVF cycle", "duration", "timeline"]
+  },
+  {
+    "id": 86,
+    "question": "Is PGT included?",
+    "answer": "Available for an additional fee, recommended for genetic risks.",
+    "category": "Fertility",
+    "tags": ["PGT", "genetic testing", "embryo screening"]
+  },
+  {
+    "id": 87,
+    "question": "Do you offer egg freezing?",
+    "answer": "Yes. For fertility preservation.",
+    "category": "Fertility",
+    "tags": ["egg freezing", "preservation", "future use"]
+  },
+  {
+    "id": 88,
+    "question": "What bariatric surgeries are offered?",
+    "answer": "Gastric sleeve, gastric bypass, gastric balloon.",
+    "category": "Bariatrics",
+    "tags": ["weight loss", "gastric sleeve", "bypass", "balloon"]
+  },
+  {
+    "id": 89,
+    "question": "What are the success rates?",
+    "answer": "Patients typically lose 60 to 80 percent of excess weight within 12 to 18 months.",
+    "category": "Bariatrics",
+    "tags": ["success", "weight loss", "outcomes"]
+  },
+  {
+    "id": 90,
+    "question": "Is nutritional counseling included?",
+    "answer": "Yes. Pre- and post-op diet plans and long-term follow-up.",
+    "category": "Bariatrics",
+    "tags": ["nutrition", "diet", "counseling", "vitamins"]
+  },
+  {
+    "id": 91,
+    "question": "Can I get LASIK surgery?",
+    "answer": "Yes. Bladeless femtosecond LASIK with rapid recovery.",
+    "category": "Ophthalmology",
+    "tags": ["LASIK", "vision correction", "eye surgery"]
+  },
+  {
+    "id": 92,
+    "question": "How soon can I travel after eye surgery?",
+    "answer": "Most patients fly home 2–3 days after LASIK, 5–7 days after cataract surgery.",
+    "category": "Ophthalmology",
+    "tags": ["travel", "after surgery", "recovery"]
+  },
+  {
+    "id": 93,
+    "question": "Are premium IOLs used?",
+    "answer": "Yes. For cataract surgery, including multifocal and toric lenses.",
+    "category": "Ophthalmology",
+    "tags": ["IOL", "lens", "cataract", "premium"]
+  },
+  {
+    "id": 94,
+    "question": "Do you offer mole mapping?",
+    "answer": "Yes. Dermatoscopy and digital tracking for skin cancer prevention.",
+    "category": "Dermatology",
+    "tags": ["mole", "mapping", "skin cancer", "dermatoscopy"]
+  },
+  {
+    "id": 95,
+    "question": "Can I get a skin cancer screening?",
+    "answer": "Yes. Biopsies and excisions performed with precision.",
+    "category": "Dermatology",
+    "tags": ["skin cancer", "screening", "biopsy", "removal"]
+  },
+  {
+    "id": 96,
+    "question": "Are hospitals modern and clean?",
+    "answer": "Yes. Newly built or renovated with private rooms, Wi-Fi, and hotel-like amenities.",
+    "category": "Hospitals & Facilities",
+    "tags": ["modern", "clean", "facilities", "comfort"]
+  },
+  {
+    "id": 97,
+    "question": "Are private rooms available?",
+    "answer": "Yes. All international patients receive private, en-suite rooms.",
+    "category": "Hospitals & Facilities",
+    "tags": ["private room", "single room", "comfort"]
+  },
+  {
+    "id": 98,
+    "question": "Is 24/7 nursing care provided?",
+    "answer": "Yes. Especially after surgery.",
+    "category": "Hospitals & Facilities",
+    "tags": ["nursing", "24/7", "care", "monitoring"]
+  },
+  {
+    "id": 99,
+    "question": "Are diagnostic services on-site?",
+    "answer": "Yes. MRI, CT, PET-CT, lab—all in-house for fast results.",
+    "category": "Hospitals & Facilities",
+    "tags": ["diagnostics", "MRI", "CT", "lab", "imaging"]
+  },
+  {
+    "id": 100,
+    "question": "Are on-site pharmacies available?",
+    "answer": "Yes. Dispense prescribed medications with multilingual labels.",
+    "category": "Hospitals & Facilities",
+    "tags": ["pharmacy", "medications", "drugs"]
+  },
+  {
+    "id": 101,
+    "question": "Can I combine treatment with a holiday?",
+    "answer": "Yes. Turkey offers historical sites, beaches, and wellness retreats. Many patients enjoy recovery in scenic, relaxing environments.",
+    "category": "Travel & Support",
+    "tags": ["holiday", "tourism", "vacation", "recovery"]
+  },
+  {
+    "id": 102,
+    "question": "Do you offer wellness recovery packages?",
+    "answer": "Yes. We partner with luxury wellness hotels offering spa treatments, hydrotherapy, nutritional meals, and private nursing for post-op recovery.",
+    "category": "Travel & Support",
+    "tags": ["wellness", "spa", "recovery", "hotel"]
+  },
+  {
+    "id": 103,
+    "question": "Which cities do you operate in?",
+    "answer": "Primarily Istanbul, Ankara, Antalya, and Izmir—cities with top medical facilities and rich cultural experiences.",
+    "category": "Travel & Support",
+    "tags": ["cities", "locations", "Istanbul", "Ankara", "Antalya", "Izmir"]
+  },
+  {
+    "id": 104,
+    "question": "Do you provide airport transfers?",
+    "answer": "Yes. Complimentary VIP airport pickup and drop-off are included in most packages.",
+    "category": "Travel & Support",
+    "tags": ["airport transfer", "pickup", "drop-off", "VIP"]
+  },
+  {
+    "id": 105,
+    "question": "What type of accommodation do you offer?",
+    "answer": "4 and 5-star hotels near clinics, with options for suites, family rooms, and medical recovery rooms equipped with emergency call systems.",
+    "category": "Travel & Support",
+    "tags": ["accommodation", "hotel", "room", "stay"]
+  },
+  {
+    "id": 106,
+    "question": "Are translators provided during medical appointments?",
+    "answer": "Yes. Professional medical interpreters accompany you to all consultations, surgeries, and pharmacy visits.",
+    "category": "Travel & Support",
+    "tags": ["translator", "interpreter", "language", "communication"]
+  },
+  {
+    "id": 107,
+    "question": "Can I tour the city during recovery?",
+    "answer": "Light sightseeing is possible after clearance from your doctor. We recommend guided private tours for comfort and safety.",
+    "category": "Travel & Support",
+    "tags": ["sightseeing", "tour", "city", "activity"]
+  },
+  {
+    "id": 108,
+    "question": "Do you help with visa applications?",
+    "answer": "Yes. We provide official invitation letters from our partner clinics to support your e-Visa application.",
+    "category": "Travel & Support",
+    "tags": ["visa", "e-Visa", "invitation letter", "application"]
+  },
+  {
+    "id": 109,
+    "question": "Is Turkey safe for tourists?",
+    "answer": "Yes. Major cities are safe, clean, and welcoming to international visitors. Our staff ensures your security throughout your stay.",
+    "category": "Travel & Support",
+    "tags": ["safety", "tourist", "security", "travel"]
+  },
+  {
+    "id": 110,
+    "question": "Can I bring a companion?",
+    "answer": "Yes. Companions are encouraged for emotional support. We provide shared accommodations and companion itineraries.",
+    "category": "Travel & Support",
+    "tags": ["companion", "family", "friend", "support"]
+  },
+  {
+    "id": 111,
+    "question": "Are halal and special diet meals available?",
+    "answer": "Yes. Hospitals and hotels offer halal, vegetarian, vegan, diabetic, and allergy-friendly meals upon request.",
+    "category": "Travel & Support",
+    "tags": ["halal", "diet", "food", "meals"]
+  },
+  {
+    "id": 112,
+    "question": "Do you organize cultural experiences?",
+    "answer": "Yes. Optional tours include Bosphorus cruises, Hagia Sophia, Topkapi Palace, Cappadocia hot air balloons, and Turkish baths.",
+    "category": "Travel & Support",
+    "tags": ["culture", "tour", "experience", "sightseeing"]
+  },
+  {
+    "id": 113,
+    "question": "Is internet and phone connectivity good?",
+    "answer": "Yes. Hotels and hospitals offer high-speed Wi-Fi. We can arrange a local SIM card upon arrival.",
+    "category": "Travel & Support",
+    "tags": ["internet", "Wi-Fi", "SIM", "connectivity"]
+  },
+  {
+    "id": 114,
+    "question": "Can I use credit cards?",
+    "answer": "Yes. Major credit cards are widely accepted in hotels, pharmacies, and malls.",
+    "category": "Travel & Support",
+    "tags": ["credit card", "payment", "Visa", "Mastercard"]
+  },
+  {
+    "id": 115,
+    "question": "What currency is used?",
+    "answer": "Turkish Lira (TRY). ATMs are widely available, and exchange offices are common in tourist areas.",
+    "category": "Travel & Support",
+    "tags": ["currency", "TRY", "lira", "exchange"]
+  },
+  {
+    "id": 116,
+    "question": "Are there prayer rooms in hospitals?",
+    "answer": "Yes. JCI-accredited hospitals provide multi-faith prayer spaces and respect religious practices.",
+    "category": "Travel & Support",
+    "tags": ["prayer room", "mosque", "faith", "religion"]
+  },
+  {
+    "id": 117,
+    "question": "Can I shop for souvenirs after treatment?",
+    "answer": "Yes. Istanbul’s Grand Bazaar, Antalya’s old town, and Izmir’s Kemeraltı are popular shopping destinations.",
+    "category": "Travel & Support",
+    "tags": ["shopping", "souvenirs", "bazaar", "gifts"]
+  },
+  {
+    "id": 118,
+    "question": "Do you offer post-treatment relaxation programs?",
+    "answer": "Yes. Options include thermal spas in Pamukkale, seaside resorts in Bodrum, and forest retreats in the Black Sea region.",
+    "category": "Travel & Support",
+    "tags": ["relaxation", "spa", "recovery", "wellness"]
+  },
+  {
+    "id": 119,
+    "question": "Is travel insurance recommended?",
+    "answer": "Yes. We recommend international travel insurance that covers medical evacuation, trip cancellation, and outpatient care.",
+    "category": "Travel & Support",
+    "tags": ["insurance", "travel insurance", "coverage"]
+  },
+  {
+    "id": 120,
+    "question": "How do I contact Aregon Group?",
+    "answer": "Visit www.aregon-group.com, email info@aregon-group.com, or message us on WhatsApp. Our team is available 24/7 in multiple languages.",
+    "category": "Company Info",
+    "tags": ["contact", "website", "email", "WhatsApp", "support"]
+  },
+  {
+    "id": 121,
+    "question": "Are the hospitals newly built?",
+    "answer": "Many of our partner hospitals are newly constructed or recently renovated with state-of-the-art infrastructure and patient-centered design.",
+    "category": "Hospitals & Facilities",
+    "tags": ["new hospitals", "modern", "renovated", "infrastructure"]
+  },
+  {
+    "id": 122,
+    "question": "Do hospitals have emergency response teams?",
+    "answer": "Yes. All hospitals have 24/7 emergency response units and ICU backup for high-risk procedures.",
+    "category": "Hospitals & Facilities",
+    "tags": ["emergency", "response", "ICU", "critical care"]
+  },
+  {
+    "id": 123,
+    "question": "Is there a dedicated international patient desk?",
+    "answer": "Yes. Each hospital has a multilingual Patient Relations Office to assist with check-in, billing, and coordination.",
+    "category": "Hospitals & Facilities",
+    "tags": ["international desk", "patient relations", "support"]
+  },
+  {
+    "id": 124,
+    "question": "Can I request a specific doctor?",
+    "answer": "Yes. If available, we will do our best to accommodate your preference based on expertise and schedule.",
+    "category": "Doctors & Staff",
+    "tags": ["doctor request", "preferred surgeon", "specialist"]
+  },
+  {
+    "id": 125,
+    "question": "Are anesthesiologists board-certified?",
+    "answer": "Yes. All anesthesiologists are certified and experienced in international protocols, with personalized plans for each patient.",
+    "category": "Doctors & Staff",
+    "tags": ["anesthesiologist", "certified", "safety", "protocol"]
+  },
+  {
+    "id": 126,
+    "question": "Do you provide pre-treatment video consultations?",
+    "answer": "Yes. Free video calls with your specialist are arranged to discuss your case before travel.",
+    "category": "Company Info",
+    "tags": ["video consultation", "pre-op call", "remote consult"]
+  },
+  {
+    "id": 127,
+    "question": "What documents should I bring?",
+    "answer": "Passport, medical records, recent scans, medication list, and insurance details. We’ll provide a checklist.",
+    "category": "Travel & Support",
+    "tags": ["documents", "medical records", "checklist", "passport"]
+  },
+  {
+    "id": 128,
+    "question": "Will I receive a treatment timeline?",
+    "answer": "Yes. You’ll get a detailed itinerary including arrival, tests, surgery, recovery, and departure.",
+    "category": "Company Info",
+    "tags": ["timeline", "itinerary", "schedule", "planning"]
+  },
+  {
+    "id": 129,
+    "question": "Can a family member stay in my hospital room?",
+    "answer": "Yes. Companions can stay overnight in select private rooms or nearby hotels.",
+    "category": "Travel & Support",
+    "tags": ["family", "companion", "hospital room", "stay"]
+  },
+  {
+    "id": 130,
+    "question": "Do you provide medical records after treatment?",
+    "answer": "Yes. You’ll receive a digital and printed discharge summary, prescriptions, imaging files, and lab results.",
+    "category": "Company Info",
+    "tags": ["medical records", "discharge", "reports", "files"]
+  },
+  {
+    "id": 131,
+    "question": "Is remote follow-up available?",
+    "answer": "Yes. We schedule telehealth check-ins and remain available via WhatsApp or email for 3 to 12 months post-treatment.",
+    "category": "Company Info",
+    "tags": ["follow-up", "telehealth", "remote", "aftercare"]
+  },
+  {
+    "id": 132,
+    "question": "What if I need a second procedure?",
+    "answer": "We coordinate touch-ups or revisions at no extra surgical fee (subject to medical need and clinic policy).",
+    "category": "Company Info",
+    "tags": ["revision", "second procedure", "touch-up", "warranty"]
+  },
+  {
+    "id": 133,
+    "question": "How do you ensure ethical practices?",
+    "answer": "We refuse partnerships with clinics that over-treat, mislead, or prioritize profit over care. Transparency and patient well-being are our core values.",
+    "category": "Company Info",
+    "tags": ["ethics", "transparency", "integrity", "patient care"]
+  },
+  {
+    "id": 134,
+    "question": "Are there English-speaking nurses?",
+    "answer": "Yes. Our hospitals employ multilingual nursing staff fluent in English and other major languages.",
+    "category": "Doctors & Staff",
+    "tags": ["nurses", "English", "multilingual", "care"]
+  },
+  {
+    "id": 135,
+    "question": "Do hospitals have Wi-Fi in patient rooms?",
+    "answer": "Yes. High-speed internet is available in all private rooms and common areas.",
+    "category": "Hospitals & Facilities",
+    "tags": ["Wi-Fi", "internet", "connectivity", "patient room"]
+  },
+  {
+    "id": 136,
+    "question": "Is room service available?",
+    "answer": "Yes. Most hospitals and partner hotels offer 24/7 room service with diverse menu options.",
+    "category": "Travel & Support",
+    "tags": ["room service", "food", "meals", "hospital"]
+  },
+  {
+    "id": 137,
+    "question": "Are there patient advocacy services?",
+    "answer": "Yes. JCI-accredited hospitals have patient ombudsmen to handle concerns confidentially.",
+    "category": "Hospitals & Facilities",
+    "tags": ["advocacy", "ombudsman", "complaint", "support"]
+  },
+  {
+    "id": 138,
+    "question": "Can I get a second surgical opinion?",
+    "answer": "Yes. We can arrange a review by another specialist within our network.",
+    "category": "Company Info",
+    "tags": ["second opinion", "surgical review", "expert consult"]
+  },
+  {
+    "id": 139,
+    "question": "Are blood transfusions safe?",
+    "answer": "Yes. All blood is screened for HIV, hepatitis, and infections under national protocols.",
+    "category": "Hospitals & Facilities",
+    "tags": ["blood transfusion", "safety", "screening", "infection"]
+  },
+  {
+    "id": 140,
+    "question": "Do you offer telemedicine after returning home?",
+    "answer": "Yes. We provide scheduled virtual follow-ups and ongoing support.",
+    "category": "Company Info",
+    "tags": ["telemedicine", "virtual visit", "remote care", "follow-up"]
+  },
+  {
+    "id": 141,
+    "question": "Is there a waiting list for procedures?",
+    "answer": "No. International patients are prioritized, and most surgeries are scheduled within 1–2 weeks.",
+    "category": "Company Info",
+    "tags": ["waiting list", "scheduling", "appointment", "fast access"]
+  },
+  {
+    "id": 142,
+    "question": "Can I upgrade my hotel stay?",
+    "answer": "Yes. Luxury and VIP suites are available upon request.",
+    "category": "Travel & Support",
+    "tags": ["upgrade", "luxury", "VIP", "hotel"]
+  },
+  {
+    "id": 143,
+    "question": "Are airport lounges included?",
+    "answer": "Yes. On departure, we can arrange lounge access for comfort before your flight.",
+    "category": "Travel & Support",
+    "tags": ["airport lounge", "VIP lounge", "departure", "comfort"]
+  },
+  {
+    "id": 144,
+    "question": "Do you provide aftercare kits?",
+    "answer": "Yes. Kits include medications, wound care supplies, and instructions in your language.",
+    "category": "Company Info",
+    "tags": ["aftercare kit", "supplies", "medications", "instructions"]
+  },
+  {
+    "id": 145,
+    "question": "Can I receive treatment under general anesthesia?",
+    "answer": "Yes. For appropriate procedures, full anesthesia is available with specialist supervision.",
+    "category": "Doctors & Staff",
+    "tags": ["general anesthesia", "sedation", "surgery", "safety"]
+  },
+  {
+    "id": 146,
+    "question": "Are there age limits for treatment?",
+    "answer": "No. Treatments are evaluated case by case, with special care for elderly or pediatric patients.",
+    "category": "Doctors & Staff",
+    "tags": ["age limit", "elderly", "pediatric", "eligibility"]
+  },
+  {
+    "id": 147,
+    "question": "Do you work with medical tourism regulators?",
+    "answer": "Yes. We comply with Turkish Ministry of Health guidelines and international medical tourism standards.",
+    "category": "Company Info",
+    "tags": ["regulation", "Ministry of Health", "compliance", "standards"]
+  },
+  {
+    "id": 148,
+    "question": "Can I pay in installments before travel?",
+    "answer": "Yes. We offer flexible payment plans with deposits and staged payments.",
+    "category": "Cost & Value",
+    "tags": ["installments", "payment plan", "deposit", "financing"]
+  },
+  {
+    "id": 149,
+    "question": "Is there a refund policy if I cancel?",
+    "answer": "Yes. Refunds are processed based on timing and incurred costs. Terms are provided in your contract.",
+    "category": "Company Info",
+    "tags": ["refund", "cancellation", "policy", "terms"]
+  },
+  {
+    "id": 150,
+    "question": "Do you offer corporate medical packages?",
+    "answer": "Yes. For companies and expatriate groups, we offer customized health programs and group rates.",
+    "category": "Company Info",
+    "tags": ["corporate", "group", "expat", "packages"]
+  },
+  {
+    "id": 151,
+    "question": "Are robotic surgeries available?",
+    "answer": "Yes. Robotic-assisted procedures are offered in orthopedics, cardiac, oncology, and bariatrics for enhanced precision.",
+    "category": "Hospitals & Facilities",
+    "tags": ["robotic surgery", "Da Vinci", "precision", "minimally invasive"]
+  },
+  {
+    "id": 152,
+    "question": "Can I get a medical second opinion remotely?",
+    "answer": "Yes. Send your reports and scans for a free remote evaluation by a senior specialist.",
+    "category": "Company Info",
+    "tags": ["second opinion", "remote", "consultation", "evaluation"]
+  },
+  {
+    "id": 153,
+    "question": "Do you provide treatment summaries for my local doctor?",
+    "answer": "Yes. We send comprehensive reports to ensure continuity of care.",
+    "category": "Company Info",
+    "tags": ["treatment summary", "local doctor", "continuity", "records"]
+  },
+  {
+    "id": 154,
+    "question": "Are there smoking-free zones in hospitals?",
+    "answer": "Yes. All our partner hospitals are completely smoke-free for patient safety and comfort.",
+    "category": "Hospitals & Facilities",
+    "tags": ["smoking", "smoke-free", "hospital policy", "safety"]
+  },
+  {
+    "id": 155,
+    "question": "Can I schedule a consultation before deciding?",
+    "answer": "Yes. Free virtual consultations are available to discuss your needs and options.",
+    "category": "Company Info",
+    "tags": ["consultation", "pre-treatment", "virtual", "free"]
+  },
+  {
+    "id": 156,
+    "question": "Is there a patient satisfaction guarantee?",
+    "answer": "We aim for 100% satisfaction and address all concerns promptly through our support team.",
+    "category": "Company Info",
+    "tags": ["satisfaction", "guarantee", "feedback", "support"]
+  },
+  {
+    "id": 157,
+    "question": "Do you offer fertility preservation for cancer patients?",
+    "answer": "Yes. Egg or sperm freezing is available before chemotherapy or radiation.",
+    "category": "Fertility",
+    "tags": ["fertility preservation", "cancer", "egg freezing", "sperm freezing"]
+  },
+  {
+    "id": 158,
+    "question": "Are dental veneers made of porcelain?",
+    "answer": "Yes. Premium porcelain or zirconia veneers are used for durability and aesthetics.",
+    "category": "Dentistry",
+    "tags": ["veneers", "porcelain", "aesthetics", "smile makeover"]
+  },
+  {
+    "id": 159,
+    "question": "Can I get a tummy tuck after weight loss?",
+    "answer": "Yes. Body contouring surgeries are common post-bariatric or post-pregnancy.",
+    "category": "Cosmetic Surgery",
+    "tags": ["tummy tuck", "body contouring", "weight loss", "surgery"]
+  },
+  {
+    "id": 160,
+    "question": "Do you use 3D planning for rhinoplasty?",
+    "answer": "Yes. 3D simulation allows you to preview your results before surgery.",
+    "category": "Cosmetic Surgery",
+    "tags": ["rhinoplasty", "3D planning", "simulation", "preview"]
+  },
+  {
+    "id": 161,
+    "question": "Are there child-friendly hospital areas?",
+    "answer": "Yes. Pediatric zones include toys, entertainment, and family seating.",
+    "category": "Hospitals & Facilities",
+    "tags": ["child-friendly", "pediatric", "kids", "family"]
+  },
+  {
+    "id": 162,
+    "question": "Can I receive treatment during Ramadan?",
+    "answer": "Yes. We respect religious practices and adjust schedules and medications accordingly.",
+    "category": "Travel & Support",
+    "tags": ["Ramadan", "religious", "fasting", "accommodation"]
+  },
+  {
+    "id": 163,
+    "question": "Do you offer smoking cessation programs?",
+    "answer": "Yes. Counseling and medication support are available before and after surgery.",
+    "category": "Wellness",
+    "tags": ["smoking cessation", "quit smoking", "counseling", "support"]
+  },
+  {
+    "id": 164,
+    "question": "Are mental health services available?",
+    "answer": "Yes. Psychological support is offered for pre-op anxiety and post-op adjustment.",
+    "category": "Wellness",
+    "tags": ["mental health", "counseling", "psychologist", "support"]
+  },
+  {
+    "id": 165,
+    "question": "Can I get a health screening package?",
+    "answer": "Yes. Comprehensive check-ups include cardiac, cancer, and metabolic screenings.",
+    "category": "General Overview",
+    "tags": ["health screening", "check-up", "prevention", "diagnostics"]
+  },
+  {
+    "id": 166,
+    "question": "Do you provide baby cots for infants?",
+    "answer": "Yes. Upon request, we arrange baby cots in hotel rooms for families.",
+    "category": "Travel & Support",
+    "tags": ["baby cot", "infant", "family", "accommodation"]
+  },
+  {
+    "id": 167,
+    "question": "Is there a lost and found service?",
+    "answer": "Yes. Hospitals and our coordination office assist with lost items.",
+    "category": "Travel & Support",
+    "tags": ["lost and found", "service", "assistance", "support"]
+  },
+  {
+    "id": 168,
+    "question": "Can I extend my stay for tourism?",
+    "answer": "Absolutely. We can extend your accommodation and plan sightseeing tours.",
+    "category": "Travel & Support",
+    "tags": ["extend stay", "tourism", "sightseeing", "vacation"]
+  },
+  {
+    "id": 169,
+    "question": "Do you offer photography services for before/after?",
+    "answer": "Yes. Professional medical photography is available with consent.",
+    "category": "Company Info",
+    "tags": ["before after", "photography", "medical photos", "results"]
+  },
+  {
+    "id": 170,
+    "question": "Are there pet-friendly hotels?",
+    "answer": "Yes. Upon request, we can book pet-friendly accommodations.",
+    "category": "Travel & Support",
+    "tags": ["pet-friendly", "hotels", "pets", "accommodation"]
+  },
+  {
+    "id": 171,
+    "question": "Can I bring my own medications?",
+    "answer": "Yes. Declare them at customs. We can verify compatibility with your treatment.",
+    "category": "Travel & Support",
+    "tags": ["medications", "bring own", "customs", "prescription"]
+  },
+  {
+    "id": 172,
+    "question": "Do you provide SIM cards with data?",
+    "answer": "Yes. We can arrange local SIM cards with data, calls, and WhatsApp support.",
+    "category": "Travel & Support",
+    "tags": ["SIM card", "data", "internet", "connectivity"]
+  },
+  {
+    "id": 173,
+    "question": "Is there a luggage storage service?",
+    "answer": "Yes. Available at hotels and our coordination office for early arrivals or late departures.",
+    "category": "Travel & Support",
+    "tags": ["luggage storage", "baggage", "early arrival", "late departure"]
+  },
+  {
+    "id": 174,
+    "question": "Can I get a medical visa invitation?",
+    "answer": "Yes. We issue official letters to support your medical visa application.",
+    "category": "Travel & Support",
+    "tags": ["medical visa", "invitation", "letter", "application"]
+  },
+  {
+    "id": 175,
+    "question": "Are there ATMs inside hospitals?",
+    "answer": "Yes. Most major hospitals have ATMs for convenience.",
+    "category": "Travel & Support",
+    "tags": ["ATM", "cash", "bank", "hospital"]
+  },
+  {
+    "id": 176,
+    "question": "Do you offer translation of medical reports?",
+    "answer": "Yes. All reports are provided in English and your native language upon request.",
+    "category": "Company Info",
+    "tags": ["translation", "medical reports", "language", "documents"]
+  },
+  {
+    "id": 177,
+    "question": "Can I receive treatment on weekends?",
+    "answer": "Yes. Our clinics operate 7 days a week for international patients.",
+    "category": "Company Info",
+    "tags": ["weekend", "treatment", "availability", "scheduling"]
+  },
+  {
+    "id": 178,
+    "question": "Are there non-Muslim prayer spaces?",
+    "answer": "Yes. Multi-faith rooms are available for Christian, Jewish, and other faiths.",
+    "category": "Travel & Support",
+    "tags": ["prayer space", "multi-faith", "religion", "worship"]
+  },
+  {
+    "id": 179,
+    "question": "Can I rent a wheelchair?",
+    "answer": "Yes. We provide wheelchair rentals and assistance during your stay.",
+    "category": "Travel & Support",
+    "tags": ["wheelchair", "rental", "mobility", "accessibility"]
+  },
+  {
+    "id": 180,
+    "question": "Do you offer laundry services?",
+    "answer": "Yes. Available at partner hotels and recovery suites.",
+    "category": "Travel & Support",
+    "tags": ["laundry", "services", "hotel", "comfort"]
+  },
+  {
+    "id": 181,
+    "question": "Is there a concierge for tourism bookings?",
+    "answer": "Yes. Our team can book tours, shows, and dining experiences.",
+    "category": "Travel & Support",
+    "tags": ["concierge", "tours", "dining", "booking"]
+  },
+  {
+    "id": 182,
+    "question": "Can I get a taxi through your office?",
+    "answer": "Yes. We arrange trusted, metered taxis or private cars.",
+    "category": "Travel & Support",
+    "tags": ["taxi", "transport", "private car", "ride"]
+  },
+  {
+    "id": 183,
+    "question": "Do you provide travel insurance guidance?",
+    "answer": "Yes. We recommend trusted providers and coverage types.",
+    "category": "Travel & Support",
+    "tags": ["travel insurance", "guidance", "recommendation", "coverage"]
+  },
+  {
+    "id": 184,
+    "question": "Are there business centers in hotels?",
+    "answer": "Yes. For patients who need to work during recovery.",
+    "category": "Travel & Support",
+    "tags": ["business center", "work", "office", "hotel"]
+  },
+  {
+    "id": 185,
+    "question": "Can I get a refund if treatment is canceled by the doctor?",
+    "answer": "Yes. Full refunds are provided if medically ineligible after evaluation.",
+    "category": "Company Info",
+    "tags": ["refund", "cancellation", "ineligible", "evaluation"]
+  },
+  {
+    "id": 186,
+    "question": "Do you offer virtual reality consultations?",
+    "answer": "Not currently, but 3D simulations and video calls are available.",
+    "category": "Company Info",
+    "tags": ["virtual reality", "3D", "consultation", "technology"]
+  },
+  {
+    "id": 187,
+    "question": "Are there quiet zones in hospitals?",
+    "answer": "Yes. Designed for patient comfort and rest.",
+    "category": "Hospitals & Facilities",
+    "tags": ["quiet zone", "peace", "comfort", "hospital"]
+  },
+  {
+    "id": 188,
+    "question": "Can I get a detailed invoice for insurance?",
+    "answer": "Yes. We provide itemized invoices in English for global insurers.",
+    "category": "Cost & Value",
+    "tags": ["invoice", "insurance", "itemized", "reimbursement"]
+  },
+  {
+    "id": 189,
+    "question": "Do you have partnerships with airlines?",
+    "answer": "Yes. We can assist with flight bookings and medical travel coordination.",
+    "category": "Travel & Support",
+    "tags": ["airlines", "flight", "booking", "medical travel"]
+  },
+  {
+    "id": 190,
+    "question": "Is there a feedback system?",
+    "answer": "Yes. We collect patient reviews to improve services.",
+    "category": "Company Info",
+    "tags": ["feedback", "review", "survey", "improvement"]
+  },
+  {
+    "id": 191,
+    "question": "Can I donate to charity through Aregon Group?",
+    "answer": "Yes. We partner with health charities for optional contributions.",
+    "category": "Company Info",
+    "tags": ["donation", "charity", "give back", "CSR"]
+  },
+  {
+    "id": 192,
+    "question": "Do you offer medical retreats?",
+    "answer": "Yes. Combine treatment with wellness in serene locations.",
+    "category": "Wellness",
+    "tags": ["medical retreat", "wellness", "recovery", "nature"]
+  },
+  {
+    "id": 193,
+    "question": "Are there age-specific treatment packages?",
+    "answer": "Yes. Tailored programs for seniors, adults, and youth.",
+    "category": "Company Info",
+    "tags": ["age-specific", "seniors", "youth", "packages"]
+  },
+  {
+    "id": 194,
+    "question": "Can I get a digital health passport?",
+    "answer": "Yes. We provide secure digital access to your medical records.",
+    "category": "Company Info",
+    "tags": ["digital passport", "health records", "secure", "access"]
+  },
+  {
+    "id": 195,
+    "question": "Do you support medical students or researchers?",
+    "answer": "Yes. For academic collaborations and observational visits.",
+    "category": "Company Info",
+    "tags": ["research", "students", "collaboration", "education"]
+  },
+  {
+    "id": 196,
+    "question": "Is there a mobile app?",
+    "answer": "Yes, you can visit our website and scan the QR code to download for Android or Iphone. The mobile app has many features such as, AI voice chat, booking, video consultation, post care, etc.",
+    "category": "Company Info",
+    "tags": ["mobile app", "future", "booking", "digital"]
+  },
+  {
+    "id": 197,
+    "question": "Can I refer a friend?",
+    "answer": "Yes. We offer referral bonuses for successful introductions.",
+    "category": "Company Info",
+    "tags": ["referral", "bonus", "friend", "program"]
+  },
+  {
+    "id": 198,
+    "question": "Do you publish success rates?",
+    "answer": "Yes. Available upon request for transparency.",
+    "category": "Company Info",
+    "tags": ["success rates", "transparency", "data", "outcomes"]
+  },
+  {
+    "id": 199,
+    "question": "Are your clinics eco-friendly?",
+    "answer": "Many use sustainable practices, energy efficiency, and waste reduction.",
+    "category": "Hospitals & Facilities",
+    "tags": ["eco-friendly", "sustainability", "green", "environment"]
+  },
+  {
+    "id": 200,
+    "question": "How can I leave a review?",
+    "answer": "Via our website, Google, or directly with our patient experience team.",
+    "category": "Company Info",
+    "tags": ["review", "testimonials", "feedback", "Google"]
+  }
+]
