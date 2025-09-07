@@ -1,3 +1,54 @@
-import 'package:flutter/material.dart';import 'package:flutter_riverpod/flutter_riverpod.dart';import '../../repositories/booking_repository.dart';import '../../models/booking.dart';
-final _prov=FutureProvider.autoDispose<List<Booking>>((ref)=>ref.read(bookingRepositoryProvider).myBookings());
-class MyBookingsPage extends ConsumerWidget{const MyBookingsPage({super.key});@override Widget build(BuildContext c,WidgetRef ref){final s=ref.watch(_prov);return Scaffold(appBar:AppBar(title:const Text('My Bookings')),drawer:Drawer(child:ListView(children:[const DrawerHeader(child:Text('MediTour')),ListTile(leading:const Icon(Icons.home),title:const Text('Home'),onTap:()=>Navigator.pushReplacementNamed(c,'/home'))])),body:s.when(loading:()=>const Center(child:CircularProgressIndicator()),error:(e,_)=>Center(child:Text('Error: $e')),data:(items)=>ListView.separated(padding:const EdgeInsets.all(12),itemCount:items.length,separatorBuilder:(_, __)=>const SizedBox(height:8),itemBuilder:(cx,i){final b=items[i];return Card(child:ListTile(title:Text('#${b.id} — ${b.currency} ${b.price.toStringAsFixed(2)}'),subtitle:Text('${b.kind} on ${b.scheduledAt.toLocal()}${b.room!=null?'\nRoom: ${b.room}':''}')));}));}}
+import 'package:flutter/material.dart';
+import 'package:flutter_riverpod/flutter_riverpod.dart';
+import '../../repositories/booking_repository.dart';
+import '../../models/booking.dart';
+
+final _myBookingsProvider =
+    FutureProvider.autoDispose<List<Booking>>((ref) async {
+  return ref.read(bookingRepositoryProvider).myBookings();
+});
+
+class MyBookingsPage extends ConsumerWidget {
+  const MyBookingsPage({super.key});
+
+  @override
+  Widget build(BuildContext context, WidgetRef ref) {
+    final async = ref.watch(_myBookingsProvider);
+    return Scaffold(
+      appBar: AppBar(title: const Text('My Bookings')),
+      drawer: Drawer(
+        child: ListView(
+          children: [
+            const DrawerHeader(child: Text('MediTour')),
+            ListTile(
+              leading: const Icon(Icons.home),
+              title: const Text('Home'),
+              onTap: () => Navigator.pushReplacementNamed(context, '/home'),
+            ),
+          ],
+        ),
+      ),
+      body: async.when(
+        loading: () => const Center(child: CircularProgressIndicator()),
+        error: (e, _) => Center(child: Text('Error: $e')),
+        data: (items) => ListView.separated(
+          padding: const EdgeInsets.all(12),
+          itemCount: items.length,
+          separatorBuilder: (_, __) => const SizedBox(height: 8),
+          itemBuilder: (ctx, i) {
+            final b = items[i];
+            return Card(
+              child: ListTile(
+                title: Text('#${b.id} — ${b.currency} ${b.price.toStringAsFixed(2)}'),
+                subtitle: Text(
+                  "${b.kind} on ${b.scheduledAt.toLocal()}"
+                  "${b.room != null ? "\nRoom: ${b.room}" : ""}",
+                ),
+              ),
+            );
+          },
+        ),
+      ),
+    );
+  }
+}
