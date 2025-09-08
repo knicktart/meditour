@@ -2,13 +2,12 @@
     xmlns:tools="http://schemas.android.com/tools"
     package="com.example.meditour">
 
-    <!-- Permissions for networking & Jitsi calls -->
     <uses-permission android:name="android.permission.INTERNET"/>
     <uses-permission android:name="android.permission.CAMERA"/>
     <uses-permission android:name="android.permission.RECORD_AUDIO"/>
 
     <application
-        android:name="android.app.Application"   <!-- ✅ force v2 embedding -->
+        android:name="android.app.Application"
         android:icon="@mipmap/ic_launcher"
         android:label="MediTour"
         tools:replace="android:label">
@@ -27,7 +26,6 @@
             </intent-filter>
         </activity>
 
-        <!-- ✅ explicitly declare v2 embedding -->
         <meta-data android:name="flutterEmbedding" android:value="2"/>
     </application>
 </manifest>

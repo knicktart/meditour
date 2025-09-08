@@ -1,4 +1,4 @@
-package com.example.meditour
+package com.meditour_app_menu_mvp
 
 import io.flutter.embedding.android.FlutterActivity
 
