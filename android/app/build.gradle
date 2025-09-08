@@ -8,12 +8,12 @@ android {
     // Must match AndroidManifest.xml package
     namespace "com.example.meditour"
 
-    // Explicit SDKs
+    // SDKs required by path_provider_android
     compileSdk 36
 
     defaultConfig {
         applicationId "com.example.meditour"
-        minSdk 26          // Jitsi needs 26+
+        minSdk 26
         targetSdk 36
         versionCode 1
         versionName "1.0.0"
