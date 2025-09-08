@@ -8,21 +8,31 @@ android {
     // Must match AndroidManifest.xml package
     namespace "com.example.meditour"
 
-    // SDKs required by path_provider_android
+    // SDKs
     compileSdk 36
 
     defaultConfig {
         applicationId "com.example.meditour"
-        minSdk 26
+        minSdk 26          // Jitsi needs 26+
         targetSdk 36
         versionCode 1
         versionName "1.0.0"
     }
 
-    // Make profile resolve RELEASE deps (avoids react-android *-debug.aar)
+    // Make debug/profile resolve RELEASE deps (avoids react-android *-debug.aar)
     buildTypes {
+        debug {
+            matchingFallbacks = ['release']
+        }
         profile {
             matchingFallbacks = ['release']
+        }
+    }
+
+    // Avoid duplicate META-INF warnings from some AARs
+    packaging {
+        resources {
+            excludes += ["META-INF/AL2.0", "META-INF/LGPL2.1"]
         }
     }
 
