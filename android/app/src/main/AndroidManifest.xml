@@ -7,10 +7,8 @@
     <uses-permission android:name="android.permission.CAMERA"/>
     <uses-permission android:name="android.permission.RECORD_AUDIO"/>
 
-    <!-- Do NOT declare <uses-sdk>; Gradle controls min/target SDK. -->
-
     <application
-        android:name="${applicationName}"
+        android:name="android.app.Application"   <!-- ✅ force v2 embedding -->
         android:icon="@mipmap/ic_launcher"
         android:label="MediTour"
         tools:replace="android:label">
@@ -29,6 +27,7 @@
             </intent-filter>
         </activity>
 
+        <!-- ✅ explicitly declare v2 embedding -->
         <meta-data android:name="flutterEmbedding" android:value="2"/>
     </application>
 </manifest>
